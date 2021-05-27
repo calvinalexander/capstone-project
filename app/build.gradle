@@ -13,7 +13,7 @@ android {
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
-
+        multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -48,9 +48,10 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    implementation 'com.android.support:multidex:1.0.3'
 
     // Import the Firebase BoM
-    implementation platform('com.google.firebase:firebase-bom:27.1.0')
+    implementation platform('com.google.firebase:firebase-bom:28.0.1')
 
     // When using the BoM, you don't specify versions in Firebase library dependencies
 
@@ -64,6 +65,11 @@ dependencies {
 
     implementation 'com.google.firebase:firebase-ml-modeldownloader'
     implementation 'org.tensorflow:tensorflow-lite:2.3.0'
+
+    implementation 'com.google.mlkit:image-labeling-custom:16.3.1'
+    implementation 'com.google.mlkit:image-labeling-custom:16.3.1'
+    implementation 'com.google.mlkit:linkfirebase:16.1.1'
+
 
 
 }
