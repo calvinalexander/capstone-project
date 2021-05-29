@@ -9,3 +9,6 @@ https://arxiv.org/abs/2004.05717
 Internet of Medical Things (IoMT) for orthopaedic in COVID-19 pandemic: Roles,
 challenges, and applications. Journal of Clinical Orthopaedics and Trauma
 https://www.sciencedirect.com/science/article/abs/pii/S097656622030179X
+
+Convert Image into Gray Scale Function
+https://gist.github.com/moondroid/c824ae418e83669583ff
