@@ -1,14 +1,17 @@
 X-Ray Image Dataset
-https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+- https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+
 
 Literature Research
 Towards an Efficient Deep Learning Model for COVID-19 Patterns Detection in X-Ray
 Images
-https://arxiv.org/abs/2004.05717
+- https://arxiv.org/abs/2004.05717
 
 Internet of Medical Things (IoMT) for orthopaedic in COVID-19 pandemic: Roles,
 challenges, and applications. Journal of Clinical Orthopaedics and Trauma
-https://www.sciencedirect.com/science/article/abs/pii/S097656622030179X
+- https://www.sciencedirect.com/science/article/abs/pii/S097656622030179X
 
-Convert Image into Gray Scale Function
-https://gist.github.com/moondroid/c824ae418e83669583ff
+
+Firebase Documentation
+- https://firebase.google.com/docs/ml/android/use-custom-models
+- https://developers.google.com/ml-kit/vision/image-labeling/custom-models/android
